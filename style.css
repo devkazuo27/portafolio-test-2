@@ -19,7 +19,7 @@
     --font-heading: 'Fredoka', sans-serif;
     --font-body: 'Nunito', sans-serif;
 
-    --dot-color: #9bf3e0;
+    --dot-color: #c4f1e6;
     --dot-size: 30px;
 }
 
@@ -38,8 +38,8 @@ body {
     position: relative;
     overflow-x: hidden;
 
-    background-image: radial-gradient(var(--col-bg) 3px, transparent 3px);
-    background-size: 30px 30px;
+    background-image: radial-gradient(var(--dot-color) 2.5px, transparent 2.5px);
+    background-size: 32px 32px;
 }
 
 #app {
