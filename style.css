@@ -2343,9 +2343,9 @@ body:has(#splash-screen) { overflow: hidden; }
     margin: 0 auto 14px;
     display: flex; align-items: center; justify-content: center;
     border-radius: 50%;
-    background: var(--btn-soft);
-    border: 3px solid var(--border-color);
-    color: var(--border-color);
+    background: #fbeae5;
+    border: 3px solid #d07868;
+    color: #b5503f;
 }
 .confirm-icon svg { width: 28px; height: 28px; }
 .confirm-title {
@@ -2378,10 +2378,10 @@ body:has(#splash-screen) { overflow: hidden; }
     transition: transform 0.2s ease, filter 0.2s, background-color 0.2s;
 }
 .confirm-ok {
-    background-color: var(--border-color);
+    background-color: #cb6557;
     color: var(--white);
-    border: 3px solid var(--border-color);
-    box-shadow: 3px 3px 0px rgba(12, 106, 88, 0.35);
+    border: 3px solid #a84a3d;
+    box-shadow: 3px 3px 0px rgba(124, 48, 38, 0.4);
 }
 .confirm-ok:hover { transform: translateY(-2px); filter: brightness(1.12); }
 .confirm-cancel:hover { transform: translateY(-2px); }
