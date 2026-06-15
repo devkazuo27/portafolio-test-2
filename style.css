@@ -4,9 +4,9 @@
     --col-bg: #9bf3e0;
     --border-color: #0c6a58;
     --text-main: #0c6a58;
-    --accent-pink: #0fa388;
+    --accent-pink: #0d8068;
     --accent-yellow: #ffce4d;
-    --muted: #8fb3aa;
+    --muted: #6f9a8e;
     --white: #ffffff;
 
     --btn-grad-1: #5fe3c8;
@@ -964,32 +964,33 @@ body {
 
 .btn-secondary {
     font-family: var(--font-heading);
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     color: var(--border-color);
     background-color: var(--btn-soft);
-    padding: 15px 30px;
-    border: 4px solid var(--border-color);
-    border-radius: 25px;
-    box-shadow: 6px 6px 0px var(--border-color);
+    padding: 11px 24px;
+    border: 2.5px solid var(--border-color);
+    border-radius: 16px;
+    box-shadow: 3px 3px 0px var(--border-color);
     cursor: pointer;
     transition: all 0.2s ease;
 }
 .btn-secondary:hover {
-    transform: translateY(-5px) scale(1.05);
+    transform: translateY(-3px);
     background-color: var(--btn-soft-hover);
-    box-shadow: 8px 9px 0px var(--border-color);
+    box-shadow: 4px 5px 0px var(--border-color);
 }
 
 .pricing-card {
     background-color: var(--white);
     border: 4px solid var(--border-color);
     border-radius: 20px;
-    padding: 20px;
+    padding: 24px 24px 28px;
     max-width: 600px;
     margin: 20px auto;
     box-shadow: 6px 6px 0px var(--border-color);
     text-align: center;
 }
+#btn-buy-commission { margin-top: 26px; }
 
 .order-form-container {
     background-color: var(--white);
