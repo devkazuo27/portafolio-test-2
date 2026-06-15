@@ -1,0 +1,40 @@
+PORTAFOLIO DE CHIHIRO — LICENCIA PROPIETARIA
+Copyright (c) 2026 Chihiro. TODOS LOS DERECHOS RESERVADOS.
+Desarrollado por: devkazuo (Discord) — Programador.
+
+============================================================
+AVISO DE DERECHOS DE AUTOR / ALL RIGHTS RESERVED
+============================================================
+
+Este sitio web, incluyendo —sin limitarse a— su código fuente
+(HTML, CSS, JavaScript, backend), su diseño visual, su estructura,
+sus textos y todas las ilustraciones y obras de arte aquí mostradas,
+son propiedad exclusiva de su autora (Chihiro) y de su desarrollador
+(devkazuo), y están protegidos por las leyes de derechos de autor.
+
+QUEDA ESTRICTAMENTE PROHIBIDO, sin autorización previa y por escrito
+de los titulares:
+
+  1. Copiar, clonar, reproducir o "rippear" total o parcialmente el
+     código o el diseño de este sitio.
+  2. Redistribuir, revender, sublicenciar o publicar este sitio o
+     partes de él, con o sin modificaciones.
+  3. Usar las ilustraciones/obras de arte para cualquier fin
+     (comercial o no) sin permiso explícito de la artista.
+  4. Eliminar, ocultar o alterar los avisos de autoría y copyright.
+
+CONSECUENCIAS DEL USO NO AUTORIZADO
+-----------------------------------
+El incumplimiento de lo anterior constituye una infracción de
+derechos de autor y será perseguido por todos los medios legales
+disponibles, incluyendo (pero no limitado a):
+
+  - Solicitudes de retirada DMCA ante el hosting, GitHub, dominios
+    y plataformas donde se aloje la copia.
+  - Reclamaciones por infracción de copyright y de marca.
+  - Acciones legales por los daños correspondientes.
+
+Si deseas usar este código, una parte de él, o las obras de arte,
+contacta primero a:  devkazuo (Discord).
+
+El uso de este sitio implica la aceptación de estos términos.
