@@ -1167,7 +1167,9 @@ body {
 .px-30 { padding-left: 30px; padding-right: 30px; }
 .form-wrapper { display: flex; justify-content: center; width: 100%; padding: 0 20px; }
 .success-box { padding: 46px 28px; display: flex; flex-direction: column; align-items: center; text-align: center; }
-.success-title { color: var(--border-color); font-family: var(--font-heading); font-size: 2.5rem; margin-bottom: 14px; }
+.success-title { color: var(--border-color); font-family: var(--font-heading); font-size: 2.5rem; margin-bottom: 10px; }
+.success-order-num { font-family: var(--font-heading); font-size: 1.35rem; color: var(--accent-pink); background: var(--btn-soft); border: 2px solid var(--accent-pink); border-radius: 999px; padding: 6px 22px; margin: 0 0 16px; }
+.success-order-num:empty { display: none; }
 .success-text { font-size: 1.1rem; color: var(--border-color); font-weight: bold; margin-bottom: 26px; max-width: 480px; line-height: 1.5; }
 .card-content {
     display: flex;

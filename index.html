@@ -49,7 +49,7 @@
     <meta name="twitter:image" content="img/AIKO_MIAU.png">
 
     <link rel="stylesheet" href="fonts.css?v=1">
-    <link rel="stylesheet" href="style.css?v=68">
+    <link rel="stylesheet" href="style.css?v=69">
 </head>
 <body>
     
@@ -284,9 +284,11 @@
                 
                 <div id="order-success" class="success-box display-none">
                     <h1 class="success-title">¡FORMULARIO ENVIADO!</h1>
-                    <p class="success-text">¡He recibido tu solicitud! Para continuar, entra a mi Discord y abre un ticket con tu número de pedido — ahí confirmo el trabajo y te paso los métodos de pago. ¡Nos vemos por allá!</p>
-                    <img id="success-avatar-img" src="img/AIKO_MIAU.png" alt="Aiko Miau Success" style="width: 150px; margin-top: 20px;">
-                    <button class="btn-primary" style="margin-top: 30px;" onclick="navigate('view-home')">Volver al Inicio</button>
+                    <p id="success-order-num" class="success-order-num"></p>
+                    <p class="success-text">Para continuar, entra a mi Discord y abre un ticket con tu número de pedido — ahí confirmo el trabajo y te paso los métodos de pago. ¡Nos vemos por allá!</p>
+                    <img id="success-avatar-img" src="img/AIKO_MIAU.png" alt="Aiko Miau Success" style="width: 140px; margin-top: 16px;">
+                    <a href="https://discord.gg/UC4D2XjPVS" target="_blank" rel="noopener noreferrer" class="btn-primary" style="margin-top: 24px; text-decoration: none;">Únete a mi Discord</a>
+                    <button class="btn-secondary" style="margin-top: 12px;" onclick="navigate('view-home')">Volver al Inicio</button>
                 </div>
             </div>
         </main>
@@ -467,7 +469,7 @@
     </script>
     <script src="gsap.min.js?v=3.12.2"></script>
     <script src="api.js?v=6"></script>
-    <script src="script.js?v=35"></script>
+    <script src="script.js?v=36"></script>
     <script src="protection.js?v=5"></script>
 </body>
 </html>
